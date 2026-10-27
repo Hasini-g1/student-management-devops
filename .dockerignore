@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+npm-debug.log*
+yarn-error.log*
+.git
+.gitignore
+.env
+.env.*
+tests
+data/students.test.json
+k8s
+Jenkinsfile
+README.md
+.vscode
+.idea
+*.md

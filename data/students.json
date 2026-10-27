@@ -1,0 +1,79 @@
+[
+  {
+    "id": "std_101",
+    "rollNumber": "CS2026-001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@college.edu",
+    "department": "Computer Science",
+    "year": "3rd Year",
+    "gpa": 8.9,
+    "status": "Active",
+    "createdAt": "2026-01-15T09:30:00.000Z"
+  },
+  {
+    "id": "std_102",
+    "rollNumber": "CS2026-002",
+    "name": "Priya Patel",
+    "email": "priya.patel@college.edu",
+    "department": "Computer Science",
+    "year": "4th Year",
+    "gpa": 9.4,
+    "status": "Active",
+    "createdAt": "2026-01-16T11:20:00.000Z"
+  },
+  {
+    "id": "std_103",
+    "rollNumber": "IT2026-003",
+    "name": "Rohan Verma",
+    "email": "rohan.verma@college.edu",
+    "department": "Information Technology",
+    "year": "2nd Year",
+    "gpa": 7.8,
+    "status": "Active",
+    "createdAt": "2026-01-18T14:15:00.000Z"
+  },
+  {
+    "id": "std_104",
+    "rollNumber": "EC2026-004",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@college.edu",
+    "department": "Electronics & Communication",
+    "year": "3rd Year",
+    "gpa": 8.6,
+    "status": "Active",
+    "createdAt": "2026-01-20T10:05:00.000Z"
+  },
+  {
+    "id": "std_105",
+    "rollNumber": "ME2026-005",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@college.edu",
+    "department": "Mechanical Engineering",
+    "year": "4th Year",
+    "gpa": 8.1,
+    "status": "Inactive",
+    "createdAt": "2026-01-22T16:45:00.000Z"
+  },
+  {
+    "id": "std_106",
+    "rollNumber": "DS2026-006",
+    "name": "Sneha Nair",
+    "email": "sneha.nair@college.edu",
+    "department": "Data Science & AI",
+    "year": "1st Year",
+    "gpa": 9.1,
+    "status": "Active",
+    "createdAt": "2026-01-25T08:50:00.000Z"
+  },
+  {
+    "id": "std_17931253103944bg3",
+    "rollNumber": "24WH1A05G1",
+    "name": "M HASINI",
+    "email": "srikarmungamuru.0912@gmail.com",
+    "department": "Computer Science",
+    "year": "3rd Year",
+    "gpa": 10,
+    "status": "Active",
+    "createdAt": "2026-10-27T18:21:50.394Z"
+  }
+]
