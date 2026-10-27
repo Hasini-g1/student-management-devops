@@ -10,7 +10,6 @@ pipeline {
 
     options {
         timeout(time: 20, unit: 'MINUTES')
-        ansiColor('xterm')
         buildDiscarder(logRotator(numToKeepStr: '10'))
     }
 
@@ -34,12 +33,12 @@ pipeline {
 
         stage('2. Install Dependencies') {
             steps {
-                echo '=== Stage 2: Installing Node.js Dependencies ==='
+                echo '=== Stage 2: Installing Node.js Dependencies (npm ci) ==='
                 script {
                     if (isUnix()) {
                         sh 'npm ci || npm install'
                     } else {
-                        bat 'npm install'
+                        bat 'npm ci || npm install'
                     }
                 }
             }
